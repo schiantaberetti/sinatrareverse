@@ -1,0 +1,4 @@
+<html>
+<%=  params[:post][:string].reverse %>
+
+</html>

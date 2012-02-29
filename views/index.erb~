@@ -1,0 +1,10 @@
+<html>
+<h1>The string reverser!!</h1>
+<form method="post" action="/reversed">
+<input type="text" id="string" /><br>
+<input type="submit" value="REVERSE!" />	 
+
+</form>
+
+
+</html>
